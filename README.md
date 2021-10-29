@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/ezzeldem/img/main/githupProfile.png?token=AOX4Q3BVG3SQYXQ6ACKNY6LBPPMZI">
+<img align="right" width="400" height="400" src="https://github.com/ezzeldem/img/blob/main/githupProfile.png">
 
 
 # Hi, I'm Ezz Elden Mohamed  
