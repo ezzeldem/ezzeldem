@@ -7,9 +7,9 @@ Front-End Developer | React
 
 ## About me 
 
-My Name is Ezz, I'm a student in the Delta Academy, I study at the faculty of Management Information Systems. however, I'm a front-end web developer. I have 4 years of experience in this field. you can say that I'm a full-time Web developer in addition to being a student. I'm passionate about keeping up with everything new in technology trends, I have my personal touch at my work. you can keen on me for any project you need to do. 
+My Name is Ezz Elden Mohamed I have 5 years of experience as a front-end developer & I have the capabilities to finish any task on time & with high quality. I don't just care about how the site will look, but also I have great care about the quality of code. I'm still a student at the Delta Academy however, I can work full time & I have the ability & the will to learn new technologies & improve my skills furthermore. 
 
-<a href="https://new-port-five.vercel.app"/> My Projects 🚀 </a>
+<a href="https://ezzelden.vercel.app/"/> My Projects 🚀 </a>
 
 
 ## Social media :mailbox_with_no_mail:
