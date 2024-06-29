@@ -11,7 +11,3 @@ Experienced Front-End Developer with six years of hands-on experience gained sin
 
 <h3><a href="https://ezzelden.vercel.app/" style="font-size:22px;"/> My WebSite 🚀 </a></h3>
 
-
-## Social media :mailbox_with_no_mail:
-
-
