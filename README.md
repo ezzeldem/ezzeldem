@@ -7,7 +7,7 @@ Front-End Developer
 
 ## About me 
 
-My Name is Ezz Elden Mohamed I have 5 years of experience as a front-end developer & I have the capabilities to finish any task on time & with high quality. I don't just care about how the site will look, but also I have great care about the quality of code. I'm Graduated from Delta College of Management Information Systems in 2022 however, I can work full time & I have the ability & the will to learn new technologies & improve my skills furthermore. 
+Experienced Front-End Developer with six years of hands-on experience gained since my student days. I've delivered numerous successful projects throughout my career, honing my skills to a high level. Eager to continue learning and evolving, I'm seeking a challenging role in the field where I can apply my expertise, gain further experience, and advance my career.
 
 <h3><a href="https://ezzelden.vercel.app/" style="font-size:22px;"/> My WebSite 🚀 </a></h3>
 
